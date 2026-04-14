@@ -11,3 +11,4 @@ wheels/
 .outro.ipynb
 .main.ipynb
 .doramas.csv
+.up_firebase.py
