@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import requests
 
+# só pra testar a subida, pq parece ter parado de fazer a pesquisa no online
+
 # =========================
 # CONFIG
 # =========================
